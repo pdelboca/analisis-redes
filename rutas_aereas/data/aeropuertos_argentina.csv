@@ -1,0 +1,108 @@
+name,city,id,lat,lng,airport_id
+Comodoro Pierrestegui Airport,Concordia,COC,-31.2969,-57.9966,2436
+Gualeguaychu Airport,Gualeguaychu,GHU,-33.0103,-58.6131,2437
+Junin Airport,Junin,\N,-34.5459,-60.9306,2438
+General Urquiza Airport,Parana,PRA,-31.7948,-60.4804,2439
+Islas Malvinas Airport,Rosario,ROS,-32.9036,-60.785,2440
+Sauce Viejo Airport,Santa Fe,SFN,-31.7117,-60.8117,2441
+Jorge Newbery Airpark,Buenos Aires,AEP,-34.5592,-58.4156,2442
+Ingeniero Ambrosio Taravella Airport,Cordoba,COR,-31.323600769,-64.2080001831,2443
+Chamical Airport,Gobernador Gordillo,\N,-30.34530067,-66.29360198,2444
+San Fernando Airport,San Fernando,\N,-34.4532,-58.5896,2445
+Mariano Moreno Airport,Jose C. Paz,\N,-34.5606,-58.7896,2446
+La Plata Airport,La Plata,LPG,-34.9722,-57.8947,2447
+Moron Airport,Moron,\N,-34.6763,-58.6428,2448
+El Palomar Airport,El Palomar,\N,-34.6099,-58.6126,2449
+Chos Malal Airport,Chosmadal,\N,-37.444698333699996,-70.2225036621,2450
+Dr. Arturo H. Illia Airport,Fuerte Gral Roca,\N,-39.0007019043,-67.6204986572,2451
+El Plumerillo Airport,Mendoza,MDZ,-32.8316993713,-68.7929000854,2452
+Comodoro D.R. Salomón Airport,Malargue,LGS,-35.493598938,-69.5743026733,2453
+Suboficial Ay Santiago Germano Airport,San Rafael,AFA,-34.588299,-68.4039,2454
+Catamarca Airport,Catamarca,CTC,-28.5956001282,-65.751701355,2455
+Vicecomodoro Angel D. La Paz Aragonés Airport,Santiago Del Estero,SDE,-27.765556335399996,-64.3099975586,2456
+Tinogasta Airport,Tinogasta,\N,-28.0377998352,-67.5802993774,2457
+Capitan V A Almonacid Airport,La Rioja,IRJ,-29.3815994263,-66.7957992554,2458
+Chilecito Airport,Chilecito,\N,-29.2238998413,-67.4389038086,2459
+Teniente Benjamin Matienzo Airport,Tucuman,TUC,-26.8409,-65.104897,2460
+Domingo Faustino Sarmiento Airport,San Julian,UAQ,-31.571501,-68.418198,2461
+Area De Material Airport,Rio Cuarto,RCU,-33.0850982666,-64.2612991333,2462
+Villa Dolores Airport,Villa Dolores,VDR,-31.9451999664,-65.1463012695,2463
+La Quiaca Airport,Laboulaye,\N,-22.1506004333,-65.57749938959999,2464
+Marcos Juarez Airport,Marcos Juarez,\N,-32.6836,-62.1578,2465
+Villa Reynolds Airport,Villa Reynolds,\N,-33.7299003601,-65.3873977661,2466
+Brigadier Mayor D Cesar Raul Ojeda Airport,San Luis,LUQ,-33.2732009888,-66.3563995361,2467
+Corrientes Airport,Corrientes,CNQ,-27.4455,-58.7619,2468
+Resistencia International Airport,Resistencia,RES,-27.45,-59.0561,2469
+Formosa Airport,Formosa,FMA,-26.2127,-58.2281,2470
+Cataratas Del Iguazú International Airport,Iguazu Falls,IGR,-25.737300872800002,-54.473400116,2471
+Paso De Los Libres Airport,Paso De Los Libres,AOL,-29.6894,-57.1521,2472
+Monte Caseros Airport,Monte Caseros,\N,-30.2719,-57.6402,2473
+Libertador Gral D Jose De San Martin Airport,Posadas,PSS,-27.3858,-55.9707,2474
+Termal,Presidencia R.s.pena,\N,-26.756519,-60.493103,2475
+Martin Miguel De Guemes International Airport,Salta,SLA,-24.856000900299996,-65.4861984253,2476
+Gobernador Horacio Guzman International Airport,Jujuy,JUJ,-24.3927993774,-65.0978012085,2477
+Orán Airport,Oran,ORA,-23.1527996063,-64.3292007446,2478
+Laboulaye Airport,La Quiaca,\N,-34.1353988647,-63.36230087279999,2479
+El Dorado Airport,El Dorado,\N,-26.3974990845,-54.5746994019,2481
+Goya Airport,Goya,\N,-29.1058,-59.2189,2482
+Oberá Airport,Obera,\N,-27.5181999207,-55.1241989136,2483
+Reconquista Airport,Reconquista,\N,-29.2103,-59.68,2484
+Curuzu Cuatia Airport,Curuzu Cuatia,\N,-29.7706,-57.9789,2485
+El Bolson Airport,El Bolson,EHL,-41.9431991577,-71.5323028564,2486
+General E. Mosconi Airport,Comodoro Rivadavia,CRD,-45.7853,-67.4655,2487
+Brigadier Antonio Parodi Airport,Esquel,EQS,-42.908000946,-71.139503479,2488
+Almirante Marco Andres Zar Airport,Trelew,REL,-43.2105,-65.2703,2490
+Gobernador Castello Airport,Viedma,VDM,-40.8692,-63.0004,2491
+El Tehuelche Airport,Puerto Madryn,PMY,-42.7592,-65.1027,2492
+Puerto Deseado Airport,Puerto Deseado,PUD,-47.7353,-65.9041,2494
+Hermes Quijada International Airport,Rio Grande,RGA,-53.7777,-67.7494,2495
+Piloto Civil N. Fernández Airport,Rio Gallegos,RGL,-51.6089,-69.3126,2496
+Malvinas Argentinas Airport,Ushuaia,USH,-54.8433,-68.2958,2497
+Capitan D Daniel Vazquez Airport,San Julian,ULA,-49.3068,-67.8026,2498
+Perito Moreno Airport,Perito Moreno,PMQ,-46.5378990173,-70.9786987305,2499
+Santa Cruz Airport,Santa Cruz,RZA,-50.0165,-68.5792,2500
+Comandante Espora Airport,Bahia Blanca,BHI,-38.725,-62.1693,2501
+Brigadier D.H.E. Ruiz Airport,Colonel Suarez,\N,-37.446098,-61.889301,2502
+Olavarria Airport,Olavarria,\N,-36.8899993896,-60.216598510699995,2503
+General Pico Airport,General Pico,\N,-35.6962013245,-63.7583007812,2504
+Tres Arroyos Airport,Tres Arroyos,\N,-38.3869,-60.3297,2505
+Bolivar Airport,Bolivar,\N,-36.1866,-61.0764,2506
+Ástor Piazzola International Airport,Mar Del Plata,MDQ,-37.9342,-57.5733,2508
+Presidente Peron Airport,Neuquen,NQN,-38.9490013123,-68.15570068359999,2509
+Comodoro Pedro Zanni Airport,Pehuajo,\N,-35.8446,-61.8576,2511
+Santa Rosa Airport,Santa Rosa,RSA,-36.588299,-64.275703,2512
+San Carlos De Bariloche Airport,San Carlos De Bariloche,BRC,-41.1511993408,-71.1575012207,2513
+Héroes De Malvinas Airport,Tandil,TDL,-37.2374000549,-59.2279014587,2514
+Villa Gesell Airport,Villa Gesell,VLG,-37.2354,-57.0292,2515
+Cutral-Co Airport,Cutralco,\N,-38.939701080300004,-69.2646026611,2516
+Aviador C. Campos Airport,San Martin Des Andes,CPC,-40.0754013062,-71.137298584,2517
+Ministro Pistarini International Airport,Buenos Aires,EZE,-34.8222,-58.5358,3988
+El Calafate Airport,El Calafate,FTE,-50.2803,-72.053101,4061
+General Enrique Mosconi Airport,Tartagal,TTG,-22.619600296,-63.7937011719,6027
+Las Heras Airport,Las Heras,LHS,-46.53829956049999,-68.9653015137,6028
+Antoine De St Exupery Airport,San Antonio Oeste,OES,-40.7512,-65.0343,6029
+Lago Argentino Airport,El Calafate,ING,-50.336102,-72.248596,6030
+Gobernador Gregores Airport,Gobernador Gregores,GGS,-48.7831001282,-70.1500015259,6031
+Santa Teresita Airport,Santa Teresita,SST,-36.5423,-56.7218,6032
+Necochea Airport,Necochea,NEC,-38.4831,-58.8172,6033
+Aeropuerto de Rafaela,Rafaela,RAF,-31.282072,-61.501594,6869
+Zapala Airport,ZAPALA,APZ,-38.975498,-70.113602,7221
+Rincon De Los Sauces Airport,Rincon de los Sauces,RDS,-37.3905982971,-68.9041976929,7222
+Colonia Sarmiento,Colonia Sarmiento,OLN,-45.6,-69.083333,7223
+Rio Turbio,Rio Turbio,RYO,-51.533333,-72.3,7225
+Caleta Olivia,Caleta Olivia,CVI,-46.4333,-67.5333,7227
+Fitz Roy,El Chalten,\N,-47.033333,-67.25,7228
+Sierra Grande Airport,Sierra Grande,SGV,-41.5917015076,-65.33940124509999,7229
+Cabo F.A.A. H. R. Bordón Airport,Ingeniero Jacobacci,IGB,-41.320899963399995,-69.5748977661,7230
+Lago Posadas,Lago Posadas,\N,-47.533333,-71.75,7231
+El Chalten,El Chalten,ELX,-49.328889,-72.93,7232
+Aeropuerto Internacional Valle del Conlara,Merlo,RLO,-32.349803,-65.179932,7308
+D. Casimiro Szlapelis Airport,Alto Rio Senguer,ARR,-45.013599,-70.812202,7311
+Jose De San Martin Airport,Jose de San Martin,JSM,-44.048599243199995,-70.4589004517,7312
+Darsena Norte,Buenos Aires,\N,-34.5978,-58.367841,7679
+Gilberto Lavaque,Cafayate,CFX,-26.06245,-65.932095,8852
+Termas de Río Hondo international Airport,Rio Hondo,RHD,-27.4966,-64.93595,8914
+Plaza de los Virreyes Station,Buenos Aires,\N,-34.64306,-58.461635,10365
+Puerto Madero,Buenos Aires,\N,-34.6119,-58.3647,11156
+Tolwin Observatory Airport,Tolhuin,\N,-54.521900177,-67.1989974976,11433
+Presidente Néstor Kirchner Regionsl Airport,Villa Maria,VMR,-32.3201,-63.22663,11929
